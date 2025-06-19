@@ -1,12 +1,10 @@
 # Real-estate
 A modern, responsive real estate website built using HTML, CSS (Flexbox &amp; Media Queries), and JavaScript, showcasing interactive UI features like scroll animations and property carousels.
-- 🎨 Modern layout using **CSS Flexbox** & **media queries**
-- 🍔 Hamburger menu toggle with animated icon
-- ✨ Scroll-based animations using **ScrollReveal.js**
-- 📷 Property slider with **Swiper.js**
-- 💡 Clean and reusable code structure using **CSS variables**
-- 📁 Organized file structure for easy maintenance
-
+- 🎨# Real Estate Website 🏠
+A modern, responsive real estate website built using:
+- **HTML** for structure
+- **CSS** (Flexbox, Media Queries) for layout and responsiveness
+- **JavaScript** for interactivity (menu toggle, scroll animations, Swiper carousel)
 
 - ## 🛠️ Tech Stack
 - **HTML5** – Semantic page structure
